@@ -21,7 +21,19 @@ Pseudocode:
 - Calculate the length in cm (LCM) by multiplying LFT by 30
 - Print length in cm (LCM)
 
-### _Answer_
+##Answer
+### Pseudocode
+```
+START
+Input length in feet (LFT)
+LCM = LFT * 30
+Print length in centimeters (LCM)
+END
+``` 
+
+### Flowchart
+![Exercise 1 Flowchart](flowcharts/exercise-1.png)
+
 
 ## Exercise 2
 
