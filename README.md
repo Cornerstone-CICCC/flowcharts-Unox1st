@@ -125,3 +125,27 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+
+### Pseudocode
+```
+START
+
+Input Student_Name
+Input Marks
+
+IF Marks >= 80 THEN
+    Print "Grade A"
+ELSE IF Marks >= 60 THEN
+    Print "Grade B"
+ELSE IF Marks >= 40 THEN
+    Print "Grade C"
+ELSE
+    Print "No Grade"
+END IF
+
+END
+
+   
+```
+### Flowchart
+![Exercise 5 Flowchart](flowcharts/exercise-5.png)
