@@ -47,6 +47,18 @@ Pseudocode:
 
 ### _Answer_
 
+### Pseudocode
+```
+START
+Input W
+Input L
+A = W * L
+Print A
+END
+```
+### Flowchart
+![Exercise 1 Flowchart](flowcharts/exercise-2.png)
+
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
