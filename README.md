@@ -91,6 +91,24 @@ Write an algorithm and draw a flowchart to check the three number inputs whether
 
 ### _Answer_
 
+### Pseudocode 
+```
+START
+Input A, B, C
+
+IF (A + B > C) AND (A + C > B) AND (B + C > A) THEN
+    Print "Triangle is possible"
+ELSE
+    Print "Triangle is not possible"
+END IF
+
+END
+
+```
+
+### Flowchart
+![Exercise 4 Flowchart](flowcharts/exercise-4.png)
+
 ## Exercise 5
 
 Draw the flowchart for the following:
