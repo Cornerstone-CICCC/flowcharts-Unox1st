@@ -57,7 +57,7 @@ Print A
 END
 ```
 ### Flowchart
-![Exercise 1 Flowchart](flowcharts/exercise-2.png)
+![Exercise 2 Flowchart](flowcharts/exercise-2.png)
 
 ## Exercise 3
 
@@ -66,6 +66,24 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
+
+### Pseudocode
+```
+START
+Input A, B, C
+
+IF A > B AND A > C
+    Print A is the largest
+ELSE IF B > A AND B > C
+    Print B is the largest
+ELSE
+    Print C is the largest
+
+END
+
+```
+### Flowchart
+![Exercise 3 Flowchart](flowcharts/exercise-3.png)
 
 ## Exercise 4
 
